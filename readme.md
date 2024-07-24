@@ -1,20 +1,30 @@
-Shop (OOP) project
 LICENSE Gluten Status Eco Status Discord
 
+Shop (OOP)
 website design project
 
 🌟 About
-This project is for educational purposes only.
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://konoto1.github.io/html-sinking/
+Site published at: https://tomasban1.github.io/shop-oop/
 
-Design: Imagination
+Design: --
 
 🎯 Project features/goals
+SPA (single page application)
 Github pages
-basic HTML elements/tags
-basic inline-CSS rules
-NO responsive design
+forms
+JS rendering (DOM)
+JS events
+localStorage
+class (OOP)
+✅ Tasks
+demo completed task
+layout render
+header
+main content
+footer
+navigation between pages
 🧰 Getting Started
 💻 Prerequisites
 Node.js - download and install
@@ -27,7 +37,7 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 Clone the repo
-git clone https://github.com/konoto1/html-sinking.git
+git clone https://github.com/tomasban1/shop-oop.git
 Install NPM packages
 npm i
 or
@@ -38,7 +48,7 @@ npm run dev
 There is no tests for this project.
 
 🎅 Authors
-Tomas: Github
+Rimantas: Github
 
 ⚠️ License
 Distributed under the MIT License. See LICENSE.txt for more information.
