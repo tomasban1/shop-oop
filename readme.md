@@ -1,57 +1,90 @@
-LICENSE Gluten Status Eco Status Discord
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-Shop (OOP)
-website design project
+# Shop (OOP)
 
-🌟 About
+_website design project_
+
+<br>
+
+## 🌟 About
+
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://tomasban1.github.io/shop-oop/
 
 Design: --
 
-🎯 Project features/goals
-SPA (single page application)
-Github pages
-forms
-JS rendering (DOM)
-JS events
-localStorage
-class (OOP)
-✅ Tasks
-demo completed task
-layout render
-header
-main content
-footer
-navigation between pages
-🧰 Getting Started
-💻 Prerequisites
-Node.js - download and install
+## 🎯 Project features/goals
 
+-   SPA (single page application)
+-   Github pages
+-   forms
+-   JS rendering (DOM)
+-   JS events
+-   localStorage
+-   class (OOP)
+
+## ✅ Tasks
+
+-   [x] demo completed task
+-   [ ] layout render
+    -   [ ] header
+    -   [ ] main content
+    -   [ ] footer
+-   [ ] navigation between pages
+
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
 https://nodejs.org
-Git - download and install
+```
 
+Git - _download and install_
+
+```
 https://git-scm.com
-🏃 Run locally
+```
+
+### 🏃 Run locally
+
 Would like to run this project locally? Open terminal and follow these steps:
 
-Clone the repo
-git clone https://github.com/tomasban1/shop-oop.git
-Install NPM packages
-npm i
-or
-npm install
-Run the server
-npm run dev
-🧪 Running tests
+1. Clone the repo
+    ```sh
+    git clone https://github.com/tomasban1/shop-oop.git
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
+
+### 🧪 Running tests
+
 There is no tests for this project.
 
-🎅 Authors
-Rimantas: Github
+## 🎅 Authors
 
-⚠️ License
+Tomas: [Github](https://github.com/tomasban1)
+
+## ⚠️ License
+
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-🔗 Other resources
+## 🔗 Other resources
+
 No other resources.
