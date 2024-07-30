@@ -1,0 +1,54 @@
+table {
+    border-spacing: 0 1rem;
+}
+
+thead {}
+
+thead tr {}
+
+thead td {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+    border-bottom: 0.2rem solid black;
+}
+
+tbody {
+    border-spacing: 1rem;
+}
+
+tbody tr {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+tbody td {
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+
+tbody td:first-child {
+    border-radius: 1rem 0 0 1rem;
+}
+
+tbody td:last-child {
+    border-radius: 0 1rem 1rem 0;
+}
+
+tbody td div {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+tbody td img {
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: red;
+    border-radius: 50%;
+}

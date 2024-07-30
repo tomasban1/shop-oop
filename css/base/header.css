@@ -1,0 +1,30 @@
+.main-header{
+   padding-top: 1rem;
+   padding-bottom: 1rem; 
+}
+.main-header .main-header-content{
+display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 1rem; 
+}
+
+.main-header .logo{
+    height: 3rem;
+}
+.main-header .main-nav{
+    display: flex;
+    gap: 2rem;
+}
+
+.main-header .link{
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #333;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.main-header .link:hover {
+    color: #36f;
+}

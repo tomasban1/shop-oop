@@ -1,0 +1,34 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.form .form-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+}
+
+.form label {
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.form input {
+    padding: 0.3rem 0.2rem;
+    width: 100%;
+    font-size: 1.2rem;
+    border-radius: 0.2rem;
+}
+
+.form button[type='submit'] {
+    padding: 0.5rem 1.5rem;
+    background-color: green;
+    color: #fff;
+    font-size: 1.2rem;
+    border-radius: 0.3rem;
+    border: none;
+}
